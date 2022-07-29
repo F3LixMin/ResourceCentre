@@ -26,7 +26,7 @@ public class ResourceCentreTest {
 		cc2 = new Camcorder("CC0012", "Sony DSC-RX100M7", 20);
 		cb1 = new Chromebook("CB0011", "My Google Chromebook 1st", "Mac OS");
 		cb2 = new Chromebook("CB0012", "SAMSUNG Chromebook 4+", "Win 10");
-
+		//yes
 		camcorderList= new ArrayList<Camcorder>();
 		chromebookList= new ArrayList<Chromebook>();
 	}
